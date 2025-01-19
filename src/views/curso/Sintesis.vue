@@ -2,7 +2,7 @@
 .curso-main-container.creditos-vista
   BannerInterno(subTitulo="SÍNTESIS")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-4.mb-md-5 La Unidad 1: Afectividad, vínculo y relaciones, explora los aspectos esenciales que influyen en el desarrollo emocional y social en la infancia, destacando la importancia de los vínculos afectivos y su impacto en el crecimiento integral del niño. A lo largo de esta unidad, se estudian conceptos clave como la afectividad, el apego y las relaciones interpersonales, junto con teorías de autores reconocidos en la psicología y la filosofía que ayudan a comprender cómo las emociones y los vínculos determinan la interacción social y el bienestar emocional desde la primera infancia.
+    p.mb-4.mb-md-5 La Unidad 3: Inteligencia emocional para el desarrollo afectivo de relaciones tempranas y vínculo , aborda los procesos emocionales que influyen en la formación de vínculos desde las primeras etapas de la vida, destacando su importancia para el bienestar integral de las personas. Se analizan los conflictos emocionales, sus mecanismos de solución y la mediación como estrategia clave para fortalecer las relaciones tempranas. Además, se profundiza en el concepto de inteligencia emocional y su aplicación en el entorno familiar y educativo, proporcionando herramientas metodológicas que facilitan la creación de pautas de apoyo, con el objetivo de promover vínculos afectivos sólidos y mejorar la convivencia.
     figure
       img(src='@/assets/componentes/sintesis.png', alt='Texto que describa la imagen')
     

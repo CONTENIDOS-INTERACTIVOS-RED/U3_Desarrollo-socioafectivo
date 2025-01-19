@@ -16,8 +16,9 @@ export default {
         imagen: require('@/assets/curso/banner-principal-decorativo-2.svg'),
       },
     ],
-    numeroUnidad: '1',
-    tituloUnidad: 'Afectividad, vínculo y relaciones',
+    numeroUnidad: '3',
+    tituloUnidad:
+      'Inteligencia emocional para el desarrollo afectivo de relaciones tempranas y vínculo',
   },
   menuPrincipal: {
     menu: [
@@ -31,32 +32,27 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Afectividad, vínculo y relaciones',
+        titulo:
+          'Los conflictos dentro del desarrollo emocional: concepto, mecanismos de solución y mediación',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'La afectividad para la psicología',
+            titulo: 'Concepto de conflicto',
             hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'La afectividad en la filosofía',
+            titulo: 'Concepto de conflicto emocional',
             hash: 't_1_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.3',
-            titulo: 'La afectividad y sus componentes',
+            titulo: 'Mediación en la resolución de conflictos',
             hash: 't_1_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Etapas del desarrollo afectivo, según Piaget',
-            hash: 't_1_4',
           },
         ],
       },
@@ -64,33 +60,28 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Qué son los vínculos para los niños',
+        titulo:
+          'Herramientas metodológicas para fortalecer el desarrollo afectivo, vínculo y apego',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'El concepto de vínculo y su importancia',
+            titulo: 'Educación emocional',
             hash: 't_2_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo:
-              'El impacto de los vínculos en el desarrollo emocional y social',
+            titulo: 'Juego como herramienta pedagógica',
             hash: 't_2_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.3',
-            titulo: 'El papel de los vínculos afectivos en la primera infancia',
+            titulo:
+              'Técnicas de comunicación asertiva y acompañamiento y orientación psicológica',
             hash: 't_2_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
-            titulo: 'El contexto educativo y los vínculos afectivos',
-            hash: 't_2_4',
           },
         ],
       },
@@ -98,23 +89,10 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Relaciones interpersonales en la infancia',
+        titulo:
+          'Creación de pautas de apoyo, como herramienta pedagógica para el abordaje de la familia',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo:
-              'El juego como el motor principal de las relaciones sociales en la infancia',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'El contexto escolar y las relaciones',
-            hash: 't_3_2',
-          },
-        ],
+        subMenu: [],
       },
       {
         nombreRuta: 'sintesis',
@@ -154,206 +132,199 @@ export default {
   referencias: [
     {
       referencia:
-        'Ainsworth, M. D. S. (1978). The Bowlby-Ainsworth attachment theory. In S. R. S. Van Ijzendoorn & M. D. S. La teoría del apego de Bowlby-Ainsworth. The attachment system in human development (pp. 36-60).',
-      link: null,
+        'Arboleda López, A. P. (2017). Conciliación, mediación y emociones: Una mirada para la solución de los conflictos de familia. Civilizar Ciencias Sociales y Humanas, 17(33), 81-96.',
+      link: 'http://dx.doi.org/10.22518/16578953.900',
     },
     {
       referencia:
-        'Berger, K. S. (2007). Psicologia del desarrollo. Infancia y adolescencia.',
+        'Carrisoza, A. M (9 de junio 2015) LA IMPORTANCIA DEL VÍNCULO AFECTIVO EN EL DESARROLLO DEL NIÑO. Red Familia Colombia.',
       link:
-        'https://archive.org/details/psicologia-del-desarrollo-infancia-y-adolescencia-',
+        'https://www.redfamiliacolombia.org/actualidad/la-importancia-del-vinculo-afectivo-en-el-desarrollo-del-nino/',
     },
     {
-      referencia:
-        'Bronfenbrenner, U. (1987). La ecología del desarrollo humano: experimentos en entornos naturales y diseñados.',
-      link: 'https://bibliotecadigital.mineduc.cl/handle/20.500.12365/1803',
-    },
-    {
-      referencia:
-        'Dahl, R. (2006). Matilda. Santillana Ediciones Generales, S.L. Alfaguara.',
-      link: null,
-    },
-    {
-      referencia:
-        'Descartes, R. (2001). Las pasiones del alma. (J. C. de la Vega, Ed.). Ediciones Akal.',
-      link: null,
-    },
-    {
-      referencia: 'Freud, S. (1920). Más allá del principio del placer.',
-      link: null,
-    },
-    {
-      referencia:
-        'Fuentes, A. S. (1 de diciembre de 2013). El desarrollo afectivo en educación infantil. Portal educativo: Educa y Aprende.',
+      referencia: 'Coser, L. A. (1956). Las funciones sociales del conflicto.',
       link:
-        'https://educayaprende.com/el-desarrollo-afectivo-en-educacion-infantil/',
+        'https://archive.org/details/functionsofsocia0000cose/page/n7/mode/2up',
     },
     {
-      referencia: 'Goleman, D. (1995). Emotional intelligence. Bantam Books.',
-      link: null,
-    },
-    {
-      referencia:
-        'Gracia, E., & Herrero, J. (2006). La comunidad como fuente de apoyo social: Evaluación e implicaciones en los ámbitos individual y comunitario. Revista Latinoamericana de Psicología, 38(2), 299-312.',
-      link: null,
-    },
-    {
-      referencia:
-        'Husserl, E. (1970). Investigaciones lógicas. (J. M. de la Vega, Ed.). Ediciones Losada.',
-      link: null,
-    },
-    {
-      referencia:
-        'Marino, A. (7 de diciembre de 2018). Aristóteles (384 a.C.-322 a.C.). Historiando.org.',
-      link: 'https://historiando.org/aristoteles/',
-    },
-    {
-      referencia:
-        'Mimenza, O. C. (28 de junio de 2018). Jean Piaget: biografía del padre de la Psicología Evolutiva. pymOrganization.',
-      link: 'https://psicologiaymente.com/biografias/jean-piaget',
-    },
-    {
-      referencia:
-        'Mora Muñoz, J. (2024). La importancia del vínculo y la comunicación con el bebé en el vientre. Psicología y Mente.',
-      link: 'https://psicologiaymente.com/psicologia/importancia-',
-    },
-    {
-      referencia:
-        'Olweus, D. (1993). Bullying at school: What we know and what we can do. Wiley-Blackwell.',
-      link: null,
-    },
-    {
-      referencia:
-        'Páez, D. Zuleta, E. (2023) Dimensiones Culturales Individualismo Colectivismo. Studocu.',
+      referencia: 'Freud, S. (1930). El malestar en la cultura. Viena.',
       link:
-        'https://www.studocu.com/co/document/universidad-popular-del-cesar/psicologia-politica/corte-3-no-1-dimensiones-culturales-individualismo-colectivismo/28855917',
+        'https://archive.org/details/1930-freud-sigmund-el-malestar-en-la-cultura-2012',
     },
     {
       referencia:
-        'Pérez, H. J. (2017). El desarrollo afectivo según Jean Piaget. Revista Vinculando.',
+        'García-Herrera, A. (2017). Los sentimientos y las emociones en el proceso de mediación. IM Revista de Mediación, 10(1).',
       link:
-        'https://vinculando.org/wp-content/uploads/kalins-pdf/singles/desarrollo-afectivo-jean-piaget.pdf',
+        'https://www.imotiva.es/revista-de-mediacion/articulos/los-sentimientos-las-emociones-proceso-mediacion/',
     },
     {
       referencia:
-        'Quintero, L. J., & Leiva, M. Y. (2015). Desarrollo emocional y afectivo en la primera infancia. Universidad Nacional Abierta y a Distancia.',
+        'García, P.S (2018) La importancia del juego y sus beneficios en las áreas de desarrollo infantil.',
+      link: 'https://dialnet.unirioja.es/descarga/articulo/7017228.pdf',
+    },
+    {
+      referencia:
+        'Goleman, D. (1995). Inteligencia emocional. Editorial Kairós.',
       link: null,
     },
     {
       referencia:
-        'REBUELTA CHO, A. P., (2015). Un prisma en la diversidad: alternativas en transformación. Revista de Antropología Social, 24(), 460-465.',
+        'Marx, K., & Engels, F. (1848). El manifiesto comunista. Londres.',
       link: null,
     },
     {
       referencia:
-        'Regader, B. (29 de mayo de 2015). La Teoría del Desarrollo Psicosocial de Erik Erikson. pymOrganization.',
+        'Muñoz, E. D. L. Á. O., & Ortuño, (2015) LA MEDIACIÓN ESCOLAR.',
+      link: null,
+    },
+    {
+      referencia:
+        'López Vázquez, R., Tobón Tobón, S., Veytia Bucheli, M. G., & Juárez Hernández, L. G. (2021). Mediación didáctica e inclusión educativa en la educación básica desde el enfoque socioformativo. Revista de Investigación Educativa, 39(2), 527–552.',
+      link: 'https://doi.org/10.6018/rie.443301',
+    },
+    {
+      referencia:
+        'Panesso Giraldo, K., & Arango Holguín, M. J. (2017). LA AUTOESTIMA, PROCESO HUMANO. Revista Electrónica Psyconex, 9(14), 1–9.',
       link:
-        'https://psicologiaymente.com/desarrollo/teoria-del-desarrollo-psicosocial-erikson',
+        'https://revistas.udea.edu.co/index.php/Psyconex/article/view/328507',
     },
     {
       referencia:
-        "Rogers, C. R. (1961). On becoming a person: A therapist's view of psychotherapy. Houghton Mifflin.",
-      link: null,
-    },
-    {
-      referencia:
-        'Roncallo, C. P., Sánchez de Miguel, M., & Arranz Freijo, E. (2015). Vínculo materno-fetal: implicaciones en el desarrollo psicológico y propuesta de intervención en atención temprana. Escritos de Psicología, 8(2), 1-10.',
-      link: 'https://dx.doi.org/10.5231/psy.writ.2015.0706',
-    },
-    {
-      referencia:
-        'Shonkoff, J. P., & Phillips, D. A. (Eds.). (2000). From neurons to neighborhoods: The science of early childhood development. National Academies Press.',
-      link: null,
-    },
-    {
-      referencia:
-        'Spinoza, B. (2004). Ética. (A. R. de la Vega, Ed.). Ediciones Istmo.',
-      link: null,
-    },
-    {
-      referencia:
-        'Sternberg, R. J. (1986). A triangular theory of love. Psychological Review, 93(2), 119-135.',
-      link: null,
-    },
-    {
-      referencia:
-        'Teoría de la emoción de William James. (11 de marzo de 2023). Teorías de todo y para todo.',
+        'Weber, M. (1905). La ética protestante y el espíritu del capitalismo. Londres: Unwin Hyman.',
       link:
-        'https://teorias.ar/teorias/teoria-de-la-emocion-de-william-james/?',
+        'https://drive.google.com/file/d/10_s-bw6wRhhP9GNmZd7IRHe8Lu_VRasp/view',
     },
     {
       referencia:
-        'Torrealba, J. (27 de diciembre de 2021). ¿Qué es la teoría de Wallon y cuáles son sus aportes? TuInfoSalud.',
-      link: 'https://www.tuinfosalud.com/articulos/teoria-de-wallon/',
-    },
-    {
-      referencia:
-        'Tortez, M. (1 de mayo, 2024). Afectividad: Definición, Evolución y Concepto en Psicología. Definipedia.',
+        'Alonso Arija, N. (2021). El juego como recurso educativo: Teorías y autores de renovación pedagógica. Universidad de Valladolid.',
       link:
-        'https://definicion.conceptualista.com/concepto-de-afectividad-psicologia/',
+        'https://uvadoc.uva.es/bitstream/handle/10324/51451/TFG-L3005.pdf?sequence=1',
     },
     {
       referencia:
-        'Triglia, A. (25 de agosto de 2016). El experimento de Harlow y la privación materna: sustituyendo a la madre. pymOrganization.',
+        'Bisquerra, A. R. Chao, R. (2020). Educación emocional y bienestar.',
+      link: 'https://rieeb.ibero.mx/index.php/rieeb/article/view/4/3',
+    },
+    {
+      referencia:
+        'Epstein, J. L. (2001). School, family, and community partnerships: Preparing educators and improving schools. Routledge.',
       link:
-        'https://psicologiaymente.com/psicologia/experimento-harlow-privacion-materna',
+        'https://www.taylorfrancis.com/books/mono/10.4324/9780429494673/school-family-community-partnerships-joyce-epstein',
     },
     {
       referencia:
-        'Vygotsky, L. S. (1978). Mind in society: The development of higher psychological processes. Harvard University Press.',
-      link: null,
+        'González-Grandón, X., Chao Rebolledo, C., & Patiño Domínguez, H. (2021). El juego en la educación: una vía para el desarrollo del bienestar socioemocional en contextos de violencia. Revista Latinoamericana de Estudios Educativos.',
+      link: 'https://doi.org/10.48102/rlee.2021.51.2.375',
+    },
+    {
+      referencia:
+        'López, A., & Martínez, J. (2022). La música como herramienta para la educación emocional en el aula. Psicología y Educación.',
+      link: 'https://www.psicologiayeducacion.com/musica-educacion-emocional',
+    },
+    {
+      referencia:
+        'Pérez, R., & García, S. (2023). Educación artística y desarrollo emocional: Un enfoque integral. Educación Artística y Desarrollo Emocional.',
+      link: 'https://www.educacionartistica.com/desarrollo-emocional',
+    },
+    {
+      referencia:
+        'Psicologiamatia.com (5 de abril de 2022) Inteligencia emocional en la vida cotidiana.',
+      link:
+        'https://psicologiamatia.com/inteligencia-emocional-vida-cotidiana/',
+    },
+    {
+      referencia:
+        'Palomero Fernández, P., & Valero Errazu, D. (2016). Mindfulness y educación: posibilidades y límites. Revista Interuniversitaria de Formación del Profesorado, 30(3).',
+      link: 'https://www.redalyc.org/journal/274/27449361001/html/',
+    },
+    {
+      referencia:
+        'Bedoya, C. L Herrera, L. M, (2022). Técnicas y estrategias implementadas en la intervención con familias en temas de crianza. Divers.: Perspect. Psicol. vol.18, n.1, pp.160-182.',
+      link: 'https://doi.org/10.15332/22563067.7878',
+    },
+    {
+      referencia:
+        'Bronfenbrenner, U. (1987). La ecología del desarrollo humano. Paidós.',
+      link:
+        'https://archive.org/details/bronfenbrenner-u.-la-ecologia-del-desarrollo-humano',
+    },
+    {
+      referencia:
+        'Palacios, J., & Moreno, M. C. (2013). Familia y desarrollo humano.',
+      link: 'https://dialnet.unirioja.es/servlet/articulo?codigo=7383751',
+    },
+    {
+      referencia:
+        'Rodrigo, M. J., & Palacios, J. (1998). Familias y desarrollo psicológico. Ediciones Pirámide.',
+      link: 'https://dialnet.unirioja.es/servlet/articulo?codigo=7383751',
+    },
+    {
+      referencia: 'Satir, V. (2000). Terapia familiar en acción. Paidós.',
+      link:
+        'https://upam.mx/pluginfile.php/495/mod_folder/content/0/La%20terapia%20Familiar%20ye%20l%20enfoque%20de%20Virginia%20Satir.pdf',
+    },
+    {
+      referencia:
+        'Smith, J., & Jones, H. (2020). Evaluación de necesidades en el diseño de pautas de apoyo. Educational Assessment Journal, 8(4), 112-130.',
+      link: 'https://revistas.um.es/educatio/article/download/325381/227231/',
+    },
+    {
+      referencia:
+        'La utilidad de las Pautas. (2014, abril 16). Colorado Early Learning & Development Guidelines.',
+      link:
+        'https://earlylearningco.org/padres-y-otros-proveedores/la-utilidad-de-las-pautas/',
     },
   ],
   glosario: [
     {
-      termino: 'Afectividad',
+      termino: 'Acuerdo',
       significado:
-        'Capacidad de experimentar y expresar emociones y sentimientos. Es fundamental en el desarrollo emocional y social de una persona.',
+        'Decisión tomada entre dos o más personas, asociaciones o entidades, como resultado de un proceso de negociación y deliberación sobre un asunto concreto.',
     },
     {
-      termino: 'Amistad',
+      termino: 'Afrontamiento',
       significado:
-        'Relación afectiva entre dos o más personas basada en la confianza, el respeto y el apoyo mutuo. En la infancia, las amistades son cruciales para el desarrollo de habilidades sociales y emocionales.',
+        'Se refiere al proceso de adaptación a nuevas situaciones de vida y a la gestión de circunstancias difíciles. Incluye estrategias y esfuerzos para resolver problemas y minimizar el estrés o el conflicto, ayudando a las personas a manejar mejor las adversidades.',
     },
     {
-      termino: 'Descentración',
+      termino: 'Autonomía',
       significado:
-        'Proceso por el cual el niño empieza a considerar perspectivas y emociones de otros, alejándose de un enfoque egocéntrico. Es clave en el desarrollo afectivo según Piaget.',
+        'Capacidad de una persona o entidad para tomar decisiones y actuar por sí misma, sin depender de factores externos.',
     },
     {
-      termino: 'Egocentrismo',
+      termino: 'Comunicación',
       significado:
-        'Tendencia de los niños pequeños a ver el mundo desde su propia perspectiva, sin considerar las opiniones o sentimientos de los demás. Este concepto es importante en los primeros estadios de Piaget.',
+        'Proceso de transmisión de información entre dos o más individuos, que puede ser verbal o no verbal.',
+    },
+    {
+      termino: 'Conciliación',
+      significado:
+        'Acto de alcanzar un acuerdo entre dos partes que tenían posiciones opuestas, con el objetivo de resolver un conflicto o disputa.',
+    },
+    {
+      termino: 'Conflicto',
+      significado:
+        'Pelea, disputa o discrepancia que se da cuando dos o más personas tienen intereses u opiniones que no pueden desarrollarse al mismo tiempo.',
     },
     {
       termino: 'Empatía',
       significado:
-        'Capacidad de comprender y compartir los sentimientos de los demás, fundamental para la formación de vínculos afectivos saludables y el desarrollo social.',
+        'Capacidad de comprender los sentimientos y emociones de otra persona, e intentar experimentar de forma objetiva y racional lo que está sintiendo.',
     },
     {
-      termino: 'Interacción',
+      termino: 'Mediación',
       significado:
-        'Proceso de comunicación y relación entre el niño y sus cuidadores, esencial para el desarrollo emocional y la construcción de vínculos afectivos.',
+        'Intervención de un tercero imparcial para facilitar un acuerdo entre dos partes en conflicto.',
     },
     {
-      termino: 'Seguridad',
+      termino: 'Negociación',
       significado:
-        'Sentimiento de confianza y protección que el niño experimenta cuando tiene vínculos afectivos estables y seguros con sus cuidadores.',
+        'Proceso de intercambio de información y compromisos entre dos o más partes con intereses comunes y divergentes, con el objetivo de llegar a un acuerdo.',
     },
     {
-      termino: 'Simbolización',
+      termino: 'Resolución',
       significado:
-        'Capacidad de usar símbolos, como palabras o imágenes, para representar objetos o situaciones ausentes. Esta habilidad es crucial para el desarrollo cognitivo y afectivo en los estadios de Piaget.',
-    },
-    {
-      termino: 'Socialización',
-      significado:
-        'Proceso mediante el cual el niño aprende y adopta comportamientos y normas sociales a través de sus interacciones y vínculos con los demás.',
-    },
-    {
-      termino: 'Valores',
-      significado:
-        'Principios o normas que guían el comportamiento y las decisiones de una persona. En los estadios de Piaget, los niños desarrollan un sistema de valores que influye en su afectividad y moralidad.',
+        'Acción y efecto de resolver o resolverse, o la decisión tomada para solucionar una dificultad.',
     },
   ],
   complementario: [

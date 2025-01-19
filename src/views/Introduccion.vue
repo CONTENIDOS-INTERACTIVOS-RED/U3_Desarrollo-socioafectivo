@@ -5,27 +5,24 @@
   
     .row.mb-4
       .col-12.col-xl-7.d-flex.flex-column
-        p.mb-4 Bienvenidos a la Unidad 1 de la asignatura "Desarrollo socioafectivo y vínculo", donde estudiaremos conceptos fundamentales del desarrollo emocional y social en la infancia, como la emotividad y los vínculos afectivos que los niños forman en esta etapa. 
-        .d-flex.mb-4.align-items-start.bg-azul.p-4(data-aos="fade-up")
+        .d-flex.mb-4.align-items-start.bg-verde.p-4(data-aos="fade-up")
           img.me-3(style="width: 90px" src='@/assets/curso/unidad/img-1.svg', alt='Texto que describa la imagen')
           .d-flex.flex-column
-            p.pe-xl-3.mb-0(data-aos="fade-up") Al finalizar, los estudiantes conocerán la teoría educativa relacionada con el desarrollo afectivo y el vínculo, y serán capaces de aplicar esta teoría, de manera crítica, en diferentes contextos. Este conocimiento les permitirá comprender mejor cómo los vínculos afectivos influyen en el desarrollo infantil y cómo pueden apoyar a los niños en su crecimiento emocional y social.
-        span El estudio de la <b>afectividad</b> y los <b>vínculos en la infancia</b>, es fundamental no solo para aquellos que trabajan directamente con niños, como educadores y psicólogos, sino también para cualquier persona interesada en el desarrollo humano. 
+            p.pe-xl-3.mb-0 Esta tercera unidad se centra en los conflictos del desarrollo emocional, su concepto, mecanismos de solución y mediación; también abordaremos las herramientas metodológicas para fortalecer el desarrollo afectivo, vínculo y apego, y finalmente abordaremos la creación de pautas de apoyo como herramienta pedagógica para el abordaje de la familia.
+        span A lo largo de la unidad, se proporcionarán a los estudiantes, las herramientas necesarias para comprender y aplicar conceptos de inteligencia emocional en su vida diaria y en su entorno educativo, a través de diversas actividades diseñadas para involucrarse activamente en el proceso de aprendizaje. Tendremos videos educativos, documentos de apoyo y lecturas recomendadas, que complementarán los temas tratados. Además, se realizan actividades prácticas y discusiones en grupo, para fomentar la participación y el intercambio de ideas.
       .d-none.d-xl-block.col-xl-5.mx-auto.mt-4.mt-xl-0(data-aos="fade-left")
-        img(src='@/assets/curso/unidad/img-2.png', alt='Texto que describa la imagen')  
-
-    p.mb-4 Comprender estos conceptos les permitirá mejorar sus habilidades interpersonales y aplicar estos conocimientos en el ámbito profesional, contribuyendo a la creación de entornos más empáticos y comprensivos.
-    .bg-amarillo.bg-full-width
-      .px-5.pb-md-3.py-4
+        img(src='@/assets/curso/unidad/img-2.png', alt='Texto que describa la imagen')
+      
+    .row.bg-amarillo.bg-full-width.py-4.mb-4
+      div.px-5.pb-md-3
 
         .row
-          .col-6.d-none.d-xl-block
+          .col-5.d-none.d-xl-block(data-aos="fade-right")
             img(src='@/assets/curso/unidad/img-3.png', alt='Texto que describa la imagen')
-          .col-12.col-xl-6.d-flex.flex-column.justify-content-center
-            p.mb-4(data-aos="fade-up") Esperamos que participen activamente en las actividades grupales e individuales, así como en los foros de discusión. Es importante que se comprometan con la lectura de los artículos, libros y la visualización de los videos proporcionados, dado que estos recursos serán fundamentales para su aprendizaje. No se requiere ningún conocimiento previo específico, pero una actitud abierta y reflexiva, será clave para aprovechar al máximo esta unidad.
-            span(data-aos="fade-up") Estamos emocionados de comenzar este viaje de aprendizaje con ustedes y esperamos que encuentren esta unidad enriquecedora y relevante para su desarrollo personal y profesional.
+          .col-12.col-xl-7.d-flex.flex-column.justify-content-center
+            p.mb-4(data-aos="fade-up") Al finalizar esta unidad, los estudiantes habrán desarrollado su pensamiento lógico, crítico y creativo, lo que les permitirá conceptualizar la inteligencia emocional. Este conocimiento les ayudará a aprender a ser felices, conocer sus emociones y compartir con los demás, de manera efectiva.
+            span(data-aos="fade-up") Se espera que los estudiantes participen activamente en todas las actividades, reflexionen sobre los conceptos aprendidos y los apliquen en su vida diaria. Es fundamental su participación activa en todas las actividades propuestas para esta unidad, manteniendo el excelente ritmo de trabajo que ha demostrado desde el inicio del curso.
 
-      
 
 </template>
 
