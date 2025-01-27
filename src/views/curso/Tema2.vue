@@ -77,7 +77,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p.text-small.text-bold.mb-2 <i>Entrevista a Rafael Bisquerra sobre la inteligencia emocional </i> 
-                  p.text-small Antes de abordar Entrevista a Rafael Bisquerra sobre la inteligencia emocional , lo invitamos a ver el siguiente video.
+                  p.text-small Antes de abordar Entrevista a Rafael Bisquerra sobre la inteligencia emocional, lo invitamos a ver el siguiente video.
                 .col-sm-auto
                   a.download-btn.boton.bg-azul-oscuro.text-white(href="https://youtu.be/4TWsOm2qDR0?si=oGGpqdHre7kyXHkA " target='_blank')
                     span.text-small Ver Video

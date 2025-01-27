@@ -75,7 +75,7 @@
 
     #t_1_2_.titulo-segundo(data-aos="flip-up")
       div.d-flex
-        span.me-3 1_2.
+        span.me-3 1.2
         h2 Concepto de conflicto emocional  
     
     p.mb-4(data-aos="fade-up") Los conflictos emocionales son parte natural del desarrollo humano y pueden surgir cuando las emociones y deseos de una persona entran en contradicción o cuando existen tensiones entre diferentes individuos.
@@ -213,9 +213,9 @@
           .col-12.col-lg-6.my-auto
             p.mb-4(data-aos="fade-up") Para conocer sobre esta temática, lo invitamos a escuchar el siguiente podcast.
             TarjetaAudio.color-primario.bg-white.mb-3(
-              texto='Texto descriptivo del audio'
+              texto='Mediación en la resolución de conflictos.'
               tiempo
-              :audio="require('../../assets/componentes/audios/audio-ej.mp3')"
+              :audio="require('../../assets/componentes/audios/Podcast_contenido_Unidad_III__Desarrollo socioafectivo y vinculo.mp3')"
               @audio-hover='mostrarIndicadorTarjetaAudio = false'
             )
           .col-12.col-lg-4.d-none.d-lg-block.mx-auto(data-aos="fade-left")
