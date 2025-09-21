@@ -48,7 +48,7 @@
           .col-12.col-md-6.col-lg-8
             p.d-flex.my-4
               img.me-3.mb-auto.mt-1(src='@/assets/componentes/book.svg' :style="{'max-width':'16px'}")
-              a.text-small.text-primary(target="_blank" href="https://doi.org/10.22507/rli.v18n2a15") Estrategias de Acompañamiento Educativo y Familiar en la Educación Inicial: una revisión teórica
+              a.text-small.text-primary(target="_blank" href="https://dialnet.unirioja.es/servlet/articulo?codigo=8843581") Estrategias de Acompañamiento Educativo y Familiar en la Educación Inicial: una revisión teórica
             p.d-flex.my-4
               img.me-3.mb-auto.mt-1(src='@/assets/componentes/book.svg' :style="{'max-width':'16px'}")
               a.text-small.text-primary(target="_blank" href="https://elibro.net/es/ereader/tecnologicadeloriente/16781?page=1") Función paterna, pautas de crianza y desarrollo psicológico en adolescentes: implicaciones psicoeducativas
